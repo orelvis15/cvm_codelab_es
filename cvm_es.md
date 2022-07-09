@@ -268,7 +268,7 @@ cd /opt/cardano/scripts
 ./gLiveView.sh
 ```
 
-Deberías ver algo como esto>
+Deberías ver algo como esto
 
 <img src="assets/cardano_node/sync_status.png" width="600" height="600" />
 
