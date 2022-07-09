@@ -1,5 +1,5 @@
-summary: Cardano Version Manager
-id: Cardano Version Manager
+summary: Cardano Version Manager Espanol
+id: spanish
 categories: cardano tool
 tags: cardano, cvm
 status: Published 
@@ -14,6 +14,7 @@ Duration: 1
 Vamos a aprender a usar Cardano Version Manager (CVM) para administrar las versiones y configuración de los ejecutables del nodo de cardano.
 
 <img src="assets/cvm/logo.png" width="500" height="350" />
+
 <!-- ------------------------ -->
 
 

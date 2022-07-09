@@ -1,5 +1,5 @@
-summary: Cardano Version Manager
-id: Cardano Version Manager
+summary: Cardano Version Manager English
+id: english
 categories: cardano tool
 tags: cardano, cvm
 status: Published 
@@ -7,7 +7,7 @@ authors: Orelvis Lago Vasallo
 
 # Cardano Version manager
 <!-- ------------------------ -->
-## Sumario 
+## Summary 
 Duration: 1
 
 ### What are we going to learn
